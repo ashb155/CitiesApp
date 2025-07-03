@@ -1,9 +1,3 @@
-//
-//  CitiesAppApp.swift
-//  CitiesApp
-//
-//  Created by nbk on 02/07/2025.
-//
 
 import SwiftUI
 
